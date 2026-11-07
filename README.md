@@ -12,6 +12,7 @@ Línea de tiempo animada con los hitos más relevantes del sindicalismo docente 
 - Liceth Marieth Vinasco Quiceno
 - Javier Alexander Molina Correa
 - Sandra Milena Bastidas
+- Neidy Torres Mondragon
 - Alvaro Cardenas Orozco
 
 ## Cómo se usa
